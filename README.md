@@ -1,2 +1,2 @@
-## jQeury 源码阅读
+## jQuery 源码阅读
 
